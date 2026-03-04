@@ -12,7 +12,7 @@ PythonLangChainAWSDatabricksPyTorch
 
 | # | Project | Stack | Status |
 |---|---------|-------|--------|
-| 01 | RAG Customer Intelligence Bot | LangChain · FAISS · Streamlit | 🔨 Building |
+| 01 | RAG Customer Intelligence Bot | LangChain · FAISS · Streamlit | ✅ [Live demo](https://tushar-boharapi-rag-customer-intelligence-bot.streamlit.app/) |
 | 02 | End-to-End MLOps Churn Pipeline | MLflow · FastAPI · Docker | ⏳ Next |
 | 03 | Graph-Based Fraud Network Detector | NetworkX · PyVis · Louvain | ⏳ Upcoming |
 | 04 | LLM-Augmented A/B Test Analyzer | SciPy · OpenAI · Streamlit | ⏳ Upcoming |
