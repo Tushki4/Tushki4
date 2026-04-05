@@ -51,7 +51,8 @@ Currently: Building toward the top 1% of AI practitioners — 11 projects, 9 wee
 ---
 
 📫 Let's Connect
-![Gmail](https://img.shields.io/badge/Gmail-tusharboharapi@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Tushar_Boharapi-0077B5?style=flat&logo=linkedin&logoColor=white)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tushar_Boharapi-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-boharapi-b62bb430/)
+[![Gmail](https://img.shields.io/badge/Gmail-tusharboharapi@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tusharboharapi@gmail.com)
 
 ⚡ "The goal is not to be better at AI than everyone else. The goal is to be so good at the business that the AI becomes your competitive advantage."
