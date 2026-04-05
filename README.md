@@ -33,7 +33,7 @@ Currently: Building toward the top 1% of AI practitioners — 11 projects, 9 wee
 
 ## 💼 Background
 
-* 🎮 **A23 Games (Head Digital Works)** — Analytics Manager. Built the FRAMES retention framework delivering 95Cr incremental rake and 3.5% retention lift across 10M+ players. Real-time fraud detection and ML-driven CRM systems.
+* 🎮 **A23 Games (Head Digital Works)** — Analytics Manager. Built the FRAMES retention framework, delivering 95Cr incremental rake and 3.5% retention lift across 10M+ players. Real-time fraud detection and ML-driven CRM systems.
 * 🏦 **TD Bank** — Graph-based fraud detection catching 9,000+ fraudulent applications annually. AI distress detection (enterprise innovation prize winner).
 * 🛒 **Metro Inc.** — Customer segmentation delivering 35% loyalty card uplift
 * 🎓 **Queen's University Smith School** — Master of Management Analytics
@@ -50,6 +50,8 @@ Currently: Building toward the top 1% of AI practitioners — 11 projects, 9 wee
 
 ---
 
-## 📫 Let's Connect
+📫 Let's Connect
+![Gmail](https://img.shields.io/badge/Gmail-tusharboharapi@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Tushar_Boharapi-0077B5?style=flat&logo=linkedin&logoColor=white)
 
-⚡ *"The goal is not to be better at AI than everyone else. The goal is to be so good at the business that the AI becomes your competitive advantage."*
+⚡ "The goal is not to be better at AI than everyone else. The goal is to be so good at the business that the AI becomes your competitive advantage."
